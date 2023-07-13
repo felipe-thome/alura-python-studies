@@ -1,2 +1,2 @@
 # First Python course at Alura
-This is the record of my first contact with computer programming
+This is the record of my very first contact with computer programming
